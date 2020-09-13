@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_ATLAS_PASSWORD": "rothi420IT",
+    "DB_NAME": "LaLigaTrain",
+    "JWT_SECRET": "UITS_IT"
+  }
+}
