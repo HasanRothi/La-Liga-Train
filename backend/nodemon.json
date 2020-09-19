@@ -1,6 +1,6 @@
 {
   "env": {
-    "MONGO_ATLAS_PASSWORD": "rothi420IT",
+    "MONGO_ATLAS_PASSWORD": "for Security issue , remove password from here",
     "DB_NAME": "LaLigaTrain",
     "JWT_SECRET": "UITS_IT"
   }
